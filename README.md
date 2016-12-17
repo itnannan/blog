@@ -15,3 +15,6 @@ ONLY BLOG!
 ## nginx
 - [nginx配置React项目](https://github.com/xQuotes/blog/issues/5)
 
+## eslint
+- [eslint 配制](https://github.com/xQuotes/blog/issues/6)
+
