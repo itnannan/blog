@@ -11,3 +11,7 @@ ONLY BLOG!
 
 ## Git
 - [git 项目管理](https://github.com/xQuotes/blog/issues/4)
+
+## nginx
+- [nginx配置React项目](https://github.com/xQuotes/blog/issues/4)
+
