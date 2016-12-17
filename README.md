@@ -1,5 +1,5 @@
 # blog
-ONLY BLOG!
+BLOG for My 2016!
 
 ## My Next Step
 - [My Next Step](https://github.com/xQuotes/blog/issues/7)
