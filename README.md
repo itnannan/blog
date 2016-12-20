@@ -3,6 +3,8 @@ BLOG for My 2016!
 
 ## My Next Step
 - [My Next Step(2017)](https://github.com/xQuotes/blog/issues/7)
+- 基础
+- 算法
 
 ## React
 - [`React`组件的生命周期](https://github.com/xQuotes/blog/issues/3) 
