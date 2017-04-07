@@ -3,6 +3,7 @@ BLOG for My 2016!
 
 - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
+- [es6](http://es6.ruanyifeng.com/)
 
 ## My Next Step
 - [My Next Step(2017)](https://github.com/xQuotes/blog/issues/7)
