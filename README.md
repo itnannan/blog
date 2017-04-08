@@ -5,6 +5,8 @@ BLOG for My 2016!
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 - [es6](http://es6.ruanyifeng.com/)
 
+- [排序](http://javascript.ruanyifeng.com/library/sorting.html)
+
 ## My Next Step
 - [My Next Step(2017)](https://github.com/xQuotes/blog/issues/7)
 - 时间复杂度
